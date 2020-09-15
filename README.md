@@ -1,6 +1,6 @@
 ## Index
 
-### [Getting Strated](getting-started)
+### [Getting Strated](getting-started.md)
 
 ### [Our Application](our-application.md)
 
